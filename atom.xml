@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-14T10:11:41.043Z</updated>
+  <updated>2020-09-16T14:35:20.633Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇Hexo博客</title>
+    <title>我的第一篇博客</title>
     <link href="http://example.com/2020/09/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Hexo%E5%8D%9A%E5%AE%A2/"/>
     <id>http://example.com/2020/09/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Hexo%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-09-14T10:05:04.000Z</published>
-    <updated>2020-09-14T10:11:41.043Z</updated>
+    <updated>2020-09-16T14:35:20.633Z</updated>
     
-    <content type="html"><![CDATA[<p>配置了好几天，从装软件到卸载重来一遍，总算是搭建好了</p>]]></content>
+    <content type="html"><![CDATA[<p>配置了好几天，从装软件到卸载重来一遍，总算是搭建好了！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;配置了好几天，从装软件到卸载重来一遍，总算是搭建好了&lt;/p&gt;
+    <summary type="html">&lt;p&gt;配置了好几天，从装软件到卸载重来一遍，总算是搭建好了！&lt;/p&gt;
 </summary>
       
     
